@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.title {
+    text-align: center;
+    margin: 20px;
+}
+
+.img {
+    display: block;
+    margin: 40px auto;
+}
+
+.Information {
+    padding: 30px;
+}
+
+.Description,
+.Ingredients,
+.Steps {
+    padding-bottom: 20px;
+}
+
+.content {
+    margin: 20px;
+    padding: 20px;
+    border-color: black;
+    border: 10px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+.anchor {
+    display: block;
+    text-align: center;
+    margin: 15px;
+}
